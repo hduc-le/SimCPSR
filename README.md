@@ -19,3 +19,8 @@ https://github.com/UKPLab/sentence-transformers
 
 https://github.com/huggingface/transformers
 
+
+# Contact
+All questions and requests for usages can be sent to the corresponding author: Binh T. Nguyen (ngtbinh@hcmus.edu.vn).
+
+
