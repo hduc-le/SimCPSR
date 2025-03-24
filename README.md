@@ -24,3 +24,14 @@ https://github.com/huggingface/transformers
 All questions and requests for usages can be sent to the corresponding author: Binh T. Nguyen (ngtbinh@hcmus.edu.vn).
 
 
+# Citation
+```
+@inproceedings{le2022simcpsr,
+  title={SimCPSR: Simple Contrastive Learning for Paper Submission Recommendation System},
+  author={Le, Duc H and Doan, Tram T and Huynh, Son T and Nguyen, Binh T},
+  booktitle={Asian Conference on Intelligent Information and Database Systems},
+  pages={51--63},
+  year={2022},
+  organization={Springer}
+}
+```
